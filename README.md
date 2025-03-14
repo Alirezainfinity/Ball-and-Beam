@@ -1,4 +1,4 @@
-You can watch the Vidoe of the project here [LinkedIn Alireza Salmani](https://www.linkedin.com/posts/alireza-salmani-control-electronics_arduino-aezaeqaepaesahyagp-aetagpaepaesaezaewaeuahyagp-activity-7306255265815777280-jKsU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFhEpuEB8S3_1u1rFb5HQqPiDWMAYHTMMi8)
+You can watch the Video of the project here [LinkedIn Alireza Salmani](https://www.linkedin.com/posts/alireza-salmani-control-electronics_arduino-aezaeqaepaesahyagp-aetagpaepaesaezaewaeuahyagp-activity-7306255265815777280-jKsU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFhEpuEB8S3_1u1rFb5HQqPiDWMAYHTMMi8)
 
 # Ball-and-Beam
 Arduino is controlling a nonlinear motion control system, named ball and beam or Cart and beam
